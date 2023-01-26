@@ -1,5 +1,0 @@
-test_file1 hi sky 
-test_file2 sky 
-test_file3 eye 
-test_file4 hi 
-test_file5 sky 

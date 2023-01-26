@@ -1,6 +1,0 @@
-hi test_file1 test_file4 
-sky test_file1 test_file2 test_file5 
-hello test_file2 test_file4 
-greetings test_file3 
-eye test_file3 
-yes test_file5 
